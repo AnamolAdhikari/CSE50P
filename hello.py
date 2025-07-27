@@ -62,4 +62,8 @@ we will get a syntax error, which is a type of bug that prevents the code from r
 
 This is a simple example of how functions, arguments, and side effects work in Python.
 
-"""
+
+
+""" 
+
+
